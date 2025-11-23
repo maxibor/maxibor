@@ -1,3 +1,1 @@
-### Hi there 👋
-
-I am Maxime, a Bioinformatics Scientist at [TRON Translational Oncology Mainz](https://tron-mainz.de).
+Hi, I am Maxime, a Bioinformatics scientist specializing in the development of statistical tools and workflows for the analysis of omics data.
